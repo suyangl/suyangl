@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Suyang
+- 👀 I’m interested in simulation, modelling, numerical methods and model order reduction method, which are my current research's topics
+- 🌱 I'm also learning machine learning and AI
+- 💞️ I usually code in Python/ Matlab, but sometimes in C/C++
